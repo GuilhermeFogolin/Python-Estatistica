@@ -1,10 +1,14 @@
-# 🐍 Aplicando Python com estatística
+ # 🐍 Aplicando Python com estatística
 
-Repositório contendo estudos do curso [Formação Estatística com Python](https://www.alura.com.br/formacao-estatistica-python?srsltid=AfmBOoqcuxcSyIVuQj7AU5UeEewMFEGzne5SustNleNQ9F1kfHXfFRqm) da Alura. 
+Repositório contendo estudos do curso [Formação Estatística com Python](https://www.alura.com.br/formacao-estatistica-python?srsltid=AfmBOoqcuxcSyIVuQj7AU5UeEewMFEGzne5SustNleNQ9F1kfHXfFRqm) da Alura, ao longo da minha trajetória com a área de dados.
+
+---
 
 ## 📈 Descrição
 
 📊 Utilizei como base de dados a **Pesquisa Nacional por Amostra de Domicílios - PNAD**, um importante estudo que investiga anualmente, de forma permanente, características gerais da população, de educação, trabalho, rendimento e habitação, com periodicidade variável, de acordo com as necessidades de informação para o país, como as características sobre migração, fecundidade, nupcialidade, saúde, segurança alimentar, entre outros temas.
+
+---
 
 ## 🧑‍🏫 Assuntos abordados
 
@@ -22,6 +26,8 @@ Repositório contendo estudos do curso [Formação Estatística com Python](http
 
 7️⃣ Construção de box-plot.
 
+---
+
 ## 🧮 Implementação com Python
 
 📶 Todos os assuntos abordados foram vistos utlizando Python e suas bibliotecas, dentre elas:
@@ -30,5 +36,5 @@ Repositório contendo estudos do curso [Formação Estatística com Python](http
 
 🐼 Pandas: biblioteca para análise e manipulação de dados. Dessa forma, li a minha base de dados em .csv, vi agrupamentos, séries temporais e afins.
 
+🔢 NumPy: uma forte base para ciência de dados, me proporcionando suporte para arrays multidimensionais (como matrizes e vetores), funções e operações matemáticas. 
 
-## TERMINAR DEPOIS
